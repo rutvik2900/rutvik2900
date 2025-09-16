@@ -12,7 +12,7 @@
 
 - 💻 **Languages**: Python | JavaScript | C++ | SQL | HTML | CSS
 - 🧱 **Libraries & Frameworks**: PyTorch | Scikit-learn | ROS | Numpy | Pandas | ExpressJS | NodeJS | LangChain | HuggingFace
-- 🗄️ **Databases**: Microsoft SQL Server | PostgreSQL | MongoDB | Redis
+- 🗄️ **Databases**: Microsoft SQL Server | PostgreSQL | MySQL | MongoDB | Redis
 - 📊 **Data Visualization**: Tableau | PowerBI | Matplotlib | Plotly
 - 🔧 **ETL & Cloud Services**: Microsoft SSIS | AWS | Docker
 - ⚙️ **Tools & Technologies**: OpenAI Gymnasium | GitHub | Grafana | Zoho | Figma
