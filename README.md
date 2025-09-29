@@ -6,7 +6,9 @@
 - 🎓 M.Tech in Robotics from IIT Delhi (2025)
 - 💻 B.Tech in Computer Science from Babaria Institute of Technology (2021)
 - 📚 M.Tech Thesis: Drone-view Object Detection
-- 📫 How to reach me **rutvik2900@gmail.com**
+- 📫 How to reach me 
+    - E-mail: **rutvik2900@gmail.com**
+    - LinkedIn: **https://www.linkedin.com/in/rutvik2900/**
 
 <h3 align="left">🛠️ Skills & Technologies:</h3>
 
