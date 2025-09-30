@@ -13,7 +13,7 @@
 <h3 align="left">🛠️ Skills & Technologies:</h3>
 
 - 💻 **Languages**: Python | JavaScript | C++ | SQL | HTML | CSS
-- 🧱 **Libraries & Frameworks**: PyTorch | Scikit-learn | ROS | Numpy | Pandas | ExpressJS | NodeJS | LangChain | HuggingFace
+- 🧱 **Libraries & Frameworks**: PyTorch | Scikit-learn | ROS | CrewAI | NodeJS | LangChain | HuggingFace
 - 🗄️ **Databases**: Microsoft SQL Server | PostgreSQL | MySQL | MongoDB | Redis
 - 📊 **Data Visualization**: Tableau | PowerBI | Matplotlib | Plotly
 - 🔧 **ETL & Cloud Services**: Microsoft SSIS | AWS | Docker
